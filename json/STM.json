@@ -1,0 +1,668 @@
+"cc": ,
+"tag1": "",
+"tag2": "",
+"tag3": ""
+
+"STB": {},
+
+
+Achilles
+"cc": 1,
+"tag1": "Execute",
+"tag2": "Healing",
+"tag3": "Dash"
+
+Agni
+"cc": 1,
+"tag1": "Dash",
+"tag2": "Teamfight Ult",
+"tag3": "Low CD"
+
+
+Amc
+"cc": 0,
+"tag1": "Cripple",
+"tag2": "Slow",
+"tag1": "No Jump/Dash"
+
+ah puch
+"cc": 0,
+"tag1": "Anti Heal",
+"tag2": "No Jump/Dash",
+"tag3": "Teamfight Ult",
+
+ama
+"cc": 1,
+"tag1": "High Moblity",
+"tag2": "Teamfight Ult",
+"tag3": "Dash",
+
+anhur
+"cc": 1,
+"tag1": "Jump",
+"tag2": "Slow",
+"tag3": "Single Target",
+
+anubis
+"cc": 1,
+"tag1": "Lifesteal",
+"tag2": "No Jump/Dash",
+"tag3": "Single Target"
+
+aokung
+"cc": 0,
+"tag1": "Execute",
+"tag2": "Single Target",
+"tag3": "Jump"
+
+Aphro
+"cc": 1,
+"tag1": "Healer",
+"tag2": "Immune",
+"tag3": "No Jump/Dash"
+
+Apolo
+"cc": 1,
+"tag1": "Global Ult",
+"tag2": "Dash",
+"tag3": "Single Target"
+
+Arachne
+"cc": 1,
+"tag1": "Slow",
+"tag2": "Single Target",
+"tag3": "Lifesteal"
+
+ares
+"cc": 1,
+"tag1": "Slow",
+"tag2": "Cripple",
+"tag3": "Teamfight Ult"
+
+Art
+"cc": 1,
+"tag1": "No Jump/Dash",
+"tag2": "Teamfight Ult",
+"tag3": "Slow"
+
+Artio
+"cc": 1,
+"tag1": "Cripple",
+"tag2": "Stance Switch",
+"tag3": "Dash"
+
+Athena
+"cc": 1,
+"tag1": "Block",
+"tag2": "Dash",
+"tag3": "Global Ult"
+
+Awilix
+"cc": 2,
+"tag1": "Single Target",
+"tag2": "Needs Set Up",
+"tag3": "Jump"
+
+Baba
+"cc": 0,
+"tag1": "Teamfight Ult",
+"tag2": "Jump",
+"tag3": "Slow"
+
+Ba"cc"hus
+"cc": 1,
+"tag1": "Jump",
+"tag2": "Teamfight Ult",
+"tag3": "Anti Heal"
+
+Baka
+"cc": 0,
+"tag1": "Jump",
+"tag2": "Single Target",
+"tag3": "Healing"
+
+Baron
+"cc": 1,
+"tag1": "Healer",
+"tag2": "Root",
+"tag3": "No Jump/Dash"
+
+Bastet
+"cc": 0,
+"tag1": "Jump",
+"tag2": "Root",
+"tag3": "Single Target"
+
+Bellona
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Disarm",
+"tag3": "Blocks"
+
+Cabrakan
+"cc": 2,
+"tag1": "No Jump/Dash",
+"tag2": "Single Target",
+"tag3": "Wall"
+
+Camazotz
+"cc": 0,
+"tag1": "Jump",
+"tag2": "Lifesteal",
+"tag3": "Single Target"
+
+Cerberus
+"cc": 2,
+"tag1": "Anti Heal",
+"tag2": "Team Fight Ult",
+"tag3": "Jump"
+
+Cern
+"cc": 1,
+"tag1": "Dash",
+"tag2": "Teamfight Ult",
+"tag3": "Root"
+
+Chaac
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Healing",
+"tag3": "Slow"
+
+Change
+"cc": 1,
+"tag1": "Anti Heal",
+"tag2": "Healer",
+"tag3": "No Jump/Dash"
+
+Cherno
+"cc": 0,
+"tag1": "Globle Ult",
+"tag2": "Root",
+"tag3": "Dash"
+
+Chiron
+"cc": 0,
+"tag1": "Clease",
+"tag2": "Dash",
+"tag3": "Self Revive"
+
+Chronos
+"cc": 1,
+"tag1": "No Dash/Jump",
+"tag2": "Self Revive",
+"tag3": "High Movement Speed"
+
+Cthulhu
+"cc": 2,
+"tag1": "Dash",
+"tag2": "Teamfight Ult",
+"tag3": "Slow"
+
+Cu Chu
+"cc": 1,
+"tag1": "Anti Heal",
+"tag2": "Jump",
+"tag3": "Root"
+
+Cupid
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Healer",
+"tag3": "Dash"
+
+dajji
+"cc": 1,
+"tag1": "Dash",
+"tag2": "Teamfight Ult",
+"tag3": "Slow"
+
+Disco
+"cc": 0,
+"tag1": "Root",
+"tag2": "Jump",
+"tag3": "Teamfight Ult"
+
+Erlang
+"cc": 2,
+"tag1": "Healing",
+"tag2": "Root",
+"tag3": "Dash"
+
+Fafnir
+"cc": 3,
+"tag1": "Teamfight Ult",
+"tag2": "Jump",
+"tag3": "Team Stim"
+
+Fenrir
+"cc": 2,
+"tag1": "Single Target",
+"tag2": "Jump",
+"tag3": "Lifesteal"
+
+Freya
+"cc": 1,
+"tag1": "No Jump/Dash",
+"tag2": "Lifesteal",
+"tag3": "Single Target"
+
+Ganesha
+"cc": 2,
+"tag1": "Teamfight Ult",
+"tag2": "Dash",
+"tag3": "Team Stim"
+
+Geb
+"cc": 3,
+"tag1": "Dash",
+"tag2": "Shield",
+"tag3": "Teamfight Ult"
+
+Guan
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Healer",
+"tag3": "Dash"
+
+Hachi
+"cc": 1,
+"tag1": "Dash",
+"tag2": "Teamfight Ult",
+"tag3": "Team Stim"
+
+Hades
+"cc": 1,
+"tag1": "Lifesteal",
+"tag2": "Jump",
+"tag3": "Teamfight Ult"
+
+Hebo
+"cc": 1,
+"tag1": "No Jump/Dash",
+"tag2": "High Dmg",
+"tag3": "Single Target"
+
+Heim
+"cc": 2,
+"tag1": "No Jump/Dash",
+"tag2": "Teleport",
+"tag3": "Slow"
+
+Hel
+"cc": 0,
+"tag1": "Healer",
+"tag2": "No Jump/Dash",
+"tag3": "Stance Switch"
+
+Hera
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Shield",
+"tag3": "No Jump/Dash"
+
+Herc
+"cc": 2,
+"tag1": "Healing",
+"tag2": "Dash",
+"tag3": "Teamfight Ult"
+
+Horus
+"cc": 3,
+"tag1": "Healer",
+"tag2": "Teamfight Ult",
+"tag3": "Dash"
+
+Houyi
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Jump",
+"tag3": "Slow"
+
+Hunbatz
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Jump",
+"tag3": "Teleport"
+
+Isis
+"cc": 2,
+"tag1": "No Dash/Jump",
+"tag2": "Secure Ult",
+"tag3": "Silence"
+
+Izanami
+"cc": 1,
+"tag1": "Dash",
+"tag2": "Slow",
+"tag3": "Lifesteal"
+
+Janus
+"cc": 1,
+"tag1": "Global Ult",
+"tag2": "No Jump/Dash",
+"tag3": "Teleport"
+
+Jing
+"cc": 1,
+"tag1": "Dash",
+"tag2": "Crit",
+"tag3": "Single Target"
+
+Jorm
+"cc": 1,
+"tag1": "Slow",
+"tag2": "Global Ult",
+"tag3": "No Jump/Dash"
+
+Kali
+"cc": 1,
+"tag1": "Single Target",
+"tag2": "Self Revive",
+"tag3": "Jump"
+
+Khepri
+"cc": 1,
+"tag1": "God Revive",
+"tag2": "Dash",
+"tag3": "Peeler"
+
+King arthur
+"cc": 3,
+"tag1": "High Mobility",
+"tag2": "Slow",
+"tag3": "Cripple"
+
+Kuku
+"cc": 0,
+"tag1": "No Jump/Dash",
+"tag2": "Secure Ult",
+"tag3": "Slow"
+
+Kumba
+"cc": 2,
+"tag1": "Good Peel",
+"tag2": "Dash",
+"tag3": "Root"
+
+Kuzenbo
+"cc": 2,
+"tag1": "Teamfight Ult",
+"tag2": "Dash",
+"tag3": "Thorns"
+
+Loki
+"cc": 0,
+"tag1": "Dont Use Him",
+"tag2": "Dont Think",
+"tag3": "About It"
+
+Medusa
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Dash",
+"tag3": "Anti Heal"
+
+Mercury
+"cc": 2,
+"tag1": "Single Target",
+"tag2": "Dash",
+"tag3": "Late Game Carry"
+
+Merlin
+"cc": 1,
+"tag1": "Stance Switch",
+"tag2": "Teleport",
+"tag3": "AOE Dmg"
+
+Mulan
+"cc": 2,
+"tag1": "Teamfight Ult",
+"tag2": "No Jump/Dash",
+"tag3": "Heal"
+
+nezha
+"cc": 2,
+"tag1": "Single Target",
+"tag2": "Crit",
+"tag3": "No Jump/Dash"
+
+Neith
+"cc": 2,
+"tag1": "Global Ult",
+"tag2": "Jump",
+"tag3": "Healing"
+
+Nemesis
+"cc": 0,
+"tag1": "Single Target",
+"tag2": "Slow",
+"tag3": "Dash"
+
+Nike
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Jump",
+"tag3": "Disarm"
+
+Nox
+"cc": 1,
+"tag1": "Dash",
+"tag2": "Teamfight Ult",
+"tag3": "Root"
+
+Nuwa
+"cc": 1,
+"tag1": "Global Ult",
+"tag2": "No Dash/Jump",
+"tag3": "Root"
+
+Odin
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Shield",
+"tag3": "Jump"
+
+olo
+"cc": 0,
+"tag1": "Teamfight Ult",
+"tag2": "Single Target",
+"tag3": "No Jump/Dash"
+
+Osiris
+"cc": 2,
+"tag1": "Single Target",
+"tag2": "Slow",
+"tag3": "Anti Heal"
+
+Pele
+"cc": 1,
+"tag1": "High Mobility",
+"tag2": "Lifesteal",
+"tag3": "Single Target"
+
+Persephone
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Jump",
+"tag3": "Healing"
+
+Poseidon
+"cc": 1,
+"tag1": "AOE Dmg",
+"tag2": "Secure Ult",
+"tag3": "No Jump/Dash"
+
+Ra
+"cc": 0,
+"tag1": "Healer",
+"tag2": "No Jump/Healer",
+"tag3": "Secure Ult"
+
+Raijin
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Jump",
+"tag3": "AOE Dmg"
+
+Rama
+"cc": 0,
+"tag1": "Semi Global Ult",
+"tag2": "Dash",
+"tag3": "Single Target"
+
+rat
+"cc": 1,
+"tag1": "Global Ult",
+"tag2": "Dash",
+"tag3": "Very Smol"
+
+Ravana
+"cc": 0,
+"tag1": "Single Target",
+"tag2": "Slow",
+"tag3": "Jump"
+
+Scylla
+"cc": 0,
+"tag1": "Jump",
+"tag2": "Root",
+"tag3": "High Dmg"
+
+Serqet
+"cc": 2,
+"tag1": "Single Target",
+"tag2": "Jump",
+"tag3": "Anti Heal"
+
+Set
+"cc": 0,
+"tag1": "Single Target",
+"tag2": "Teleport",
+"tag3": "Slow"
+
+Skadi
+"cc": 0,
+"tag1": "No Jump/Dash",
+"tag2": "High Mobility",
+"tag3": "Cripple"
+
+sobek
+"cc": 2,
+"tag1": "Teamfight Ult",
+"tag2": "Anti Heal",
+"tag3": "Dash"
+
+Sol
+"cc": 0,
+"tag1": "Healing",
+"tag2": "Immunity",
+"tag3": "AOE Dmg"
+
+swk
+"cc": 1,
+"tag1": "Healing",
+"tag2": "Dash",
+"tag3": "Slow"
+
+SUsan
+"cc": 2,
+"tag1": "Teleport",
+"tag2": "Teamfight Ult",
+"tag3": "High Mobility"
+
+Sylv
+"cc": 3,
+"tag1": "Healer",
+"tag2": "Teamfight Ult",
+"tag3": "No Jump/Dash"
+
+Terra
+"cc": 1,
+"tag1": "Healer",
+"tag2": "Teamfight Ult",
+"tag3": "Dash"
+
+Thana
+"cc": 1,
+"tag1": "Execute",
+"tag2": "Lifesteal",
+"tag3": "No Jump/Dash"
+
+marrigan
+"cc": 1,
+"tag1": "Invisible",
+"tag2": "Any Ult",
+"tag3": "Single Target"
+
+thor
+"cc": 2,
+"tag1": "Global Ult",
+"tag2": "Teleport",
+"tag3": "AOE Dmg"
+
+Thoth
+"cc": 0,
+"tag1": "Secure Ult",
+"tag2": "Dash",
+"tag3": "Single Target"
+
+Tyr
+"cc": 2,
+"tag1": "Teamfight Ult",
+"tag2": "Healing",
+"tag3": "Dash"
+
+Ullr
+"cc": 1,
+"tag1": "Single Target",
+"tag2": "Jump",
+"tag3": "Stance Switch"
+
+Vamana
+"cc": 1,
+"tag1": "Healing",
+"tag2": "Dash",
+"tag3": "Slow"
+
+Vulcan
+"cc": 1,
+"tag1": "AOE Dmg",
+"tag2": "Secure Ult",
+"tag3": "No Jump/Dash"
+
+Xbal
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Dash",
+"tag3": "Late Game Carry"
+
+Xing 
+"cc": 2,
+"tag1": "Teamfight Ult",
+"tag2": "Healing",
+"tag3": "Jump"
+
+Yemoja
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Healer",
+"tag3": "High Mobility"
+
+ymir
+"cc": 1,
+"tag1": "No Jump/Dash",
+"tag2": "Secure Ult",
+"tag3": "WALL"
+
+Zeus
+"cc": 0,
+"tag1": "Teamfight Ult",
+"tag2": "High DMG",
+"tag3": "No Dash/Jump"
+
+Zhong 
+"cc": 1,
+"tag1": "Teamfight Ult",
+"tag2": "Lifesteal",
+"tag3": "No Dash/Jump"
