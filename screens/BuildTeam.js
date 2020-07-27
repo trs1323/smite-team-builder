@@ -87,7 +87,8 @@ const BuildTeam = props => {
 const styles = StyleSheet.create({
     container: {
         paddingHorizontal: 10,
-        backgroundColor: "#242424"
+        backgroundColor: "#242424",
+        height: '100%'
     },
     item: {
         marginVertical: 10,

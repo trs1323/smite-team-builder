@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "smite-team-builder",
+    "name": "Smite Team Builder",
     "slug": "smite-team-builder",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,11 +16,19 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "description": "Build Smite teams for conquest, save and edit them.",
+    "githubUrl": "https://github.com/trs1323/smite-team-builder",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.TannerShilson.Smite_Team_Builder",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.TannerShilson.Smite_Team_Builder",
+      "versionCode": 1.01
     }
   }
 }
